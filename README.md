@@ -38,6 +38,7 @@ Installation
 6. Access the application:
    http://localhost/banking-system/
    
+
 📂 Project Structure
 
 banking-system/
@@ -51,6 +52,8 @@ banking-system/
 ├── images/
 ├── database.sql
 └── README.md
+
+
 
 
 📃 License
