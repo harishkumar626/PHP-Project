@@ -1,13 +1,8 @@
-Here's a professional and clean GitHub `README.md` file for your **Banking System Web Application** project:
-
----
-
-````markdown
-# 💳 Banking System Web Application
+💳 Banking System Web Application
 
 A secure, responsive, and web-based banking platform developed as part of an academic project (Dec 2024 – Apr 2025). This system enables users to manage their banking needs online with features such as authentication, transaction handling, and data management.
 
-## 🔧 Features
+🔧 Features
 
 - User registration and login system (authentication).
 - Secure transaction management (deposit, withdraw, transfer).
@@ -15,26 +10,26 @@ A secure, responsive, and web-based banking platform developed as part of an aca
 - Admin interface for managing users and accounts.
 - Database integration using MySQL and XAMPP.
 
-## 🛠️ Technologies Used
+  🛠️ Technologies Used
 
-- **Front-end**: HTML, CSS, Bootstrap  
-- **Back-end**: PHP  
-- **Database**: MySQL (via XAMPP)
+  Front-end  : HTML, CSS, Bootstrap  
+  Back-end   :  PHP  
+  Database   :  MySQL (via XAMPP)
 
-## 🖥️ Screenshots
+  🖥️ Screenshots
 
-*Add screenshots of your application here (login page, dashboard, transactions, etc.)*
+  Add screenshots of your application here (login page, dashboard, transactions, etc.)  
 
-## 🚀 Getting Started
+   🚀 Getting Started
 
-### Prerequisites
+  Prerequisites
 
-- XAMPP (PHP and MySQL support)
-- Web browser (Chrome, Firefox, etc.)
+  -XAMPP (PHP and MySQL support)
+  -Web browser (Chrome, Firefox, etc.)
 
-### Installation
+  Installation
 
-1. Clone the repository:
+  1. Clone the repository:
    ```bash
    git clone https://github.com/harishkumar626/PHP-Project
 ````
@@ -49,19 +44,18 @@ A secure, responsive, and web-based banking platform developed as part of an aca
 
 4. Import the SQL database:
 
-   * Open `phpMyAdmin` via [localhost/phpmyadmin](http://localhost/phpmyadmin).
-   * Create a new database (e.g., `banking_system`).
-   * Import the `database.sql` file from the project folder.
+      Open `phpMyAdmin` via [localhost/phpmyadmin](http://localhost/phpmyadmin).
+      Create a new database (e.g., `banking_system`).
+      Import the `database.sql` file from the project folder.
 
 5. Access the application:
 
-   ```
+   
    http://localhost/banking-system/
-   ```
+   
 
-## 📂 Project Structure
+📂 Project Structure
 
-```
 banking-system/
 ├── index.html / index.php
 ├── login.php
@@ -73,18 +67,11 @@ banking-system/
 ├── images/
 ├── database.sql
 └── README.md
-```
 
 
-## 📃 License
+
+📃 License
 
 This project is for educational purposes only.
 
----
 
-```
-
----
-
-Let me know if you'd like a version with screenshots or if you want it styled with badges or a deployment guide!
-```
