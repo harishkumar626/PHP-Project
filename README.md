@@ -43,14 +43,23 @@ Installation
 
 banking-system/
 ├── index.html / index.php
+
 ├── login.php
+
 ├── dashboard.php
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── scripts.js
+
 ├── images/
+
 ├── database.sql
+
 └── README.md
 
 
