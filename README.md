@@ -16,12 +16,6 @@ A secure, responsive, and web-based banking platform developed as part of an aca
   Back-end   :  PHP  
   Database   :  MySQL (via XAMPP)
 
-  🖥️ Screenshots
-
- Registration Page
- [Registration Page](Screenshot/Screenshot_6-5-2025_181133_localhost.jpeg)
- [Login Page](Screenshot/Screenshot_6-5-2025_181324_localhost.jpeg)
- [Dashboard](Screenshot/screenshot-1746535592320.png)
    
 🚀 Getting Started
 
