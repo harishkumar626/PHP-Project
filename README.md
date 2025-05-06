@@ -18,42 +18,32 @@ A secure, responsive, and web-based banking platform developed as part of an aca
 
   🖥️ Screenshots
 
-  Add screenshots of your application here (login page, dashboard, transactions, etc.)  
+ Registration Page
+ [Registration Page](Screenshot/Screenshot_6-5-2025_181133_localhost.jpeg)
+ [Login Page](Screenshot/Screenshot_6-5-2025_181324_localhost.jpeg)
+ [Dashboard](Screenshot/screenshot-1746535592320.png)
+   
+🚀 Getting Started
 
-   🚀 Getting Started
-
-  Prerequisites
+Prerequisites
 
   -XAMPP (PHP and MySQL support)
   -Web browser (Chrome, Firefox, etc.)
 
-  Installation
+Installation
 
-  1. Clone the repository:
-   ```bash
+1. Clone the repository:
    git clone https://github.com/harishkumar626/PHP-Project
-````
-
 2. Move the project folder to your XAMPP `htdocs` directory:
-
-   ```
-   cp -r banking-system/ /path-to-xampp/htdocs/
-   ```
-
+  cp -r banking-system/ /path-to-xampp/htdocs/
 3. Start Apache and MySQL in the XAMPP control panel.
-
 4. Import the SQL database:
-
-      Open `phpMyAdmin` via [localhost/phpmyadmin](http://localhost/phpmyadmin).
-      Create a new database (e.g., `banking_system`).
-      Import the `database.sql` file from the project folder.
-
-5. Access the application:
-
-   
+   Open `phpMyAdmin` via [localhost/phpmyadmin](http://localhost/phpmyadmin).
+   Create a new database (e.g., `banking_system`).
+   Import the `database.sql` file from the project folder.
+6. Access the application:
    http://localhost/banking-system/
    
-
 📂 Project Structure
 
 banking-system/
@@ -67,7 +57,6 @@ banking-system/
 ├── images/
 ├── database.sql
 └── README.md
-
 
 
 📃 License
